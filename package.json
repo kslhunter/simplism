@@ -92,7 +92,7 @@
     "marked": "^0.6.0",
     "mime": "^2.3.1",
     "node-sass": "^4.13.0",
-    "nodemailer": "^5.1.1",
+    "nodemailer": "^6.4.16",
     "nyc": "^13.1.0",
     "resolve-url-loader": "^3.0.0",
     "rxjs": "6.3.3",
